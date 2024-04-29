@@ -20,7 +20,7 @@ To give you a practical start, visit the [sample-tdd repository](https://github.
 
 - Beyond the core instructional content, two PDF documents are provided to enhance your understanding and application of unit testing concepts:
 
-  > - [**PRIMER.PDF:**](https://github.com/css-software-engineering-studio/sample-tdd/blob/main/PRIMER.pdf) This document is derived from discussions with students who have previously engaged with this assignment, offering practical insights and firsthand experiences.
+  > - [**PRIMER.PDF:**](https://github.com/css-software-engineering-studio/sample-tdd/blob/main/PRIMER.pdf) This document is derived from discussions with students who have previously engaged with TDD, offering practical insights and firsthand experiences.
   >   - A continiously-updated version of this as a [Google Document can be found here.](https://docs.google.com/document/d/1Uxb2fVq267BSKKTXfm6147A4C6zFFDlfIKALhYliaSc/edit?usp=sharing)
   > - [**UNITTESTING.PDF:**](https://github.com/css-software-engineering-studio/sample-tdd/blob/main/UNITTESTING.pdf) Contains supplemental information that expands further on unit testing techniques and best practices.
   >   - A continiously-updated version of this as a [Google Document can be found here.](https://docs.google.com/document/d/16ESV-HJAJi5HvYEkTLNpJCUNP5w9-axnhDSB2uQB3Ts/edit?usp=sharing)
