@@ -34,7 +34,7 @@ To give you a practical start, visit the [sample-tdd repository](https://github.
 
 ## Layer 2: Beyond The Fundamentals – Exploring The Depths
 
-In this section, we delve deeper into the world of Test-Driven Development (TDD) by exploring a variety of advanced topics that not only challenge but also empower developers to refine their testing strategies. Each additional topic underscores the value of TDD and advocates for its adoption due to the specific benefits it introduces in different contexts of software development.
+In this section, we investigate deeper into the world of Test-Driven Development (TDD) by exploring a variety of advanced topics that not only challenge but also empower developers to refine their testing strategies. Each additional topic underscores the value of TDD and advocates for its adoption due to the specific benefits it introduces in different contexts of software development.
 
 - **Test First vs. Test Driven:**
 
@@ -76,7 +76,9 @@ To further enrich your understanding of TDD, consider exploring these additional
 
 ## Layer 3: Understanding The Origin -- Why TDD in the first place?
 
-Awaiting Oliver...
+A deep dive into this question is available at the link below:
+
+- [Right Here!](https://docs.google.com/document/d/1eV4hTeYtwvcpSJ2yXV2RZsh7lIuFZUYqWhIr83S44Ro/edit?usp=sharing)
 
 ---
 
