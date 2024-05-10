@@ -21,9 +21,11 @@ Ready to dive deeper into how TDD can reshape your development process? Continue
 
 Welcome to the first layer of your TDD journey. This section sets the foundation, introducing you to the core principles and practices of Test-Driven Development. Here you will start with the basics: understanding what TDD is, why it's beneficial, and how you can start implementing it in your daily coding activities.
 
-### Explore "sample-tdd" - Your Hands-on Starter Repository
+### Discover "sample-tdd" - A Comprehensive Introduction to Test-Driven Development
 
-To give you a practical start, visit the [sample-tdd repository](https://github.com/css-software-engineering-studio/sample-tdd), a specially crafted educational resource to introduce you to Test Driven Development. This repository includes a basic project setup across multiple programming languages like C#, Java, C++, Python, Dart, and JavaScript, with each language's section specifically tailored to familiarize you with their respective TDD frameworks and best practices.
+To get started with practical experience, check out the ["sample-tdd" repository](https://github.com/css-software-engineering-studio/sample-tdd) on GitHub. This educational tool is designed to help beginners understand the fundamentals of Test-Driven Development (TDD). The repository contains a basic project structure for a variety of programming languages including C#, Java, C++, Python, Dart, and JavaScript. Each section is meticulously tailored to introduce you to the TDD frameworks and best practices specific to that language, providing a structured learning path.
+
+For further learning and to test your understanding, consider exploring the [tdd-sample repository](https://github.com/mehdihadeli/tdd-sample). This repository offers a more comprehensive codebase, allowing you to interact with fully implemented features. You can set up the project, observe its operations, and understand its successes and failures. This hands-on experience is invaluable for gaining a deeper insight into the practical aspects of TDD.
 
 ### Additional Learning Resources
 
