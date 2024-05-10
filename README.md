@@ -27,13 +27,6 @@ To give you a practical start, visit the [sample-tdd repository](https://github.
 
 ### Additional Learning Resources
 
-- Beyond the core instructional content, two PDF documents are provided to enhance your understanding and application of unit testing concepts:
-
-  > - [**PRIMER.PDF:**](https://github.com/css-software-engineering-studio/sample-tdd/blob/main/PRIMER.pdf) This document is derived from discussions with students who have previously engaged with TDD, offering practical insights and firsthand experiences.
-  >   - A continiously-updated version of this as a [Google Document can be found here.](https://docs.google.com/document/d/1Uxb2fVq267BSKKTXfm6147A4C6zFFDlfIKALhYliaSc/edit?usp=sharing)
-  > - [**UNITTESTING.PDF:**](https://github.com/css-software-engineering-studio/sample-tdd/blob/main/UNITTESTING.pdf) Contains supplemental information that expands further on unit testing techniques and best practices.
-  >   - A continiously-updated version of this as a [Google Document can be found here.](https://docs.google.com/document/d/16ESV-HJAJi5HvYEkTLNpJCUNP5w9-axnhDSB2uQB3Ts/edit?usp=sharing)
-
 - Additonal language-specific introductory test-driven-development content can be found in the following documents:
 
   > - [**For Python**](https://github.com/unicodeveloper/awesome-tdd?tab=readme-ov-file#tdd-in-python)
@@ -55,7 +48,7 @@ In this section, we investigate deeper into the world of Test-Driven Development
 
   - A comprehensive guide on using mocks, stubs, and fakes which are essential in testing environments where certain objects need to be simulated.
   - [**Mocking / Test Doubles**](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)
-  - This section gighlights how TDD supports robust testing by isolating the unit of code and replacing external dependencies, which increases test reliability and execution speed.
+  - This section highlights how TDD supports robust testing by isolating the unit of code and replacing external dependencies, which increases test reliability and execution speed.
 
 - **Refactoring Hell -- How to Avoid It:**
 
@@ -84,11 +77,15 @@ To further enrich your understanding of TDD, consider exploring these additional
 - **IEEE Explore Paper on TDD's Effectiveness**: This research paper evaluates empirical studies relating to the effectiveness of Test-Driven Development.
   - [**Read the Study**](https://ieeexplore.ieee.org/document/7372045)
 
-## Layer 3: Understanding The Theory -- Why is TDD?
+## Layer 3: Understanding The Theory -- **Why Practice TDD?**
 
-A deep dive into this question is available at the link below:
+For those interested in a more profound understanding of why Test-Driven Development (TDD) is an essential methodology, a comprehensive discussion is presented in a detailed and regularly updated Google document. This living document serves as a deep dive into the core principles and benefits of adopting TDD in software development projects.
 
-- [Right Here!](https://docs.google.com/document/d/1eV4hTeYtwvcpSJ2yXV2RZsh7lIuFZUYqWhIr83S44Ro/edit?usp=sharing)
+To explore the intricate reasons behind the use of TDD and how it can affect your development process, consider reviewing the document available at the link below:
+
+- [Explore the Document at the Link here, courtesy to @oschwa](https://docs.google.com/document/d/1eV4hTeYtwvcpSJ2yXV2RZsh7lIuFZUYqWhIr83S44Ro/edit?usp=sharing)
+
+This resource is continually updated to reflect the latest insights and examples from the tech industry, providing a dynamic and evolving perspective on the subject.
 
 ---
 
