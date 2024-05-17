@@ -21,6 +21,28 @@ Ready to dive deeper into how TDD can reshape your development process? Continue
 
 Welcome to the first layer of your TDD journey. This section sets the foundation, introducing you to the core principles and practices of Test-Driven Development. Here you will start with the basics: understanding what TDD is, why it's beneficial, and how you can start implementing it in your daily coding activities.
 
+### How to Construct a Proper Test Case
+
+#### Deploy Equivalence Partitioning
+
+Equivalence Partitioning is a testing technique that groups input data into subsets which are expected to behave similarly in response to specific test conditions. These subsets make it easier to cover all possible cases without the need for redundant tests.
+
+For example, consider an API for event registration where inputs vary by user age, membership status, and event type. Here's how you could deploy equivalence partitioning:
+
+- **Age-based Access**: Test with categories like underage users, adult users, and senior users, checking for any age restrictions.
+- **Membership Status**: Differentiate between members and non-members to evaluate any benefits or restrictions based on membership.
+- **Event Type Specific Restrictions**: Delineate between public events and members-only events to ensure appropriate access controls are enforced.
+
+By seeing these singular categories, you can write each test case with the idea to test that specific category.
+
+#### Aim to Maintain Single Assert per Test Case
+
+Aim to have one assert per test case. This practice helps in clarifying the test's goal and simplifies the debugging process if the test fails, because you know that it is _that one_ that failed. With multiple assertions, it would be unclear _which_ assert has failed. When complex behaviors need verification that inherently requires multiple assertions, ensure these assertions are focused and coherent.
+
+#### Choose Descriptive Test Names
+
+The name of a test should clearly communicate what it is testing and what outcome is expected. For instance, a test name like "throwsErrorWhenInputIsString" immediately informs you that the test checks for an error when a string is given as input to a function expecting a different type.
+
 ### Discover "sample-tdd" - A Comprehensive Introduction to Test-Driven Development
 
 To get started with practical experience, check out the ["sample-tdd" repository](https://github.com/css-software-engineering-studio/sample-tdd) on GitHub. This educational tool is designed to help beginners understand the fundamentals of Test-Driven Development (TDD). The repository contains a basic project structure for a variety of programming languages including C#, Java, C++, Python, Dart, and JavaScript. Each section is meticulously tailored to introduce you to the TDD frameworks and best practices specific to that language, providing a structured learning path.
