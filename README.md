@@ -43,6 +43,12 @@ Aim to have one assert per test case. This practice helps in clarifying the test
 
 The name of a test should clearly communicate what it is testing and what outcome is expected. For instance, a test name like "throwsErrorWhenInputIsString" immediately informs you that the test checks for an error when a string is given as input to a function expecting a different type.
 
+#### Test Smartly
+
+- Efficient testing focuses on delivering meaningful results; for instance, when testing numerical functions, it is unnecessary to check for overflow or underflow as these aspects are typically managed by the compiler. 
+- Focus instead on the scenarios that directly affect program output. Random testing strategies generally yield less useful information, so structured tests are preferred. 
+- Additionally, using assert statements in test cases renders print statements redundant; the assert inherently indicates whether a test passes or fails, cleanly outlining test outcomes without additional clutter.
+
 ### Discover "sample-tdd" - A Comprehensive Introduction to Test-Driven Development
 
 To get started with practical experience, check out the ["sample-tdd" repository](https://github.com/css-software-engineering-studio/sample-tdd) on GitHub. This educational tool is designed to help beginners understand the fundamentals of Test-Driven Development (TDD). The repository contains a basic project structure for a variety of programming languages including C#, Java, C++, Python, Dart, and JavaScript. Each section is meticulously tailored to introduce you to the TDD frameworks and best practices specific to that language, providing a structured learning path.
