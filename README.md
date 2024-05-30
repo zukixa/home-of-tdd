@@ -49,6 +49,11 @@ The name of a test should clearly communicate what it is testing and what outcom
 - Focus instead on the scenarios that directly affect program output. Random testing strategies generally yield less useful information, so structured tests are preferred. 
 - Additionally, using assert statements in test cases renders print statements redundant; the assert inherently indicates whether a test passes or fails, cleanly outlining test outcomes without additional clutter.
 
+#### Explore it in action!
+
+- You can explore the journey of creating a proper test case in the repository below, where I walk through an entire Red-Green-Refactor process using Equivalence Partitoning!
+- Repository is [right here.](https://github.com/zukixa/walkthru)
+
 ### Discover "sample-tdd" - A Comprehensive Introduction to Test-Driven Development
 
 To get started with practical experience, check out the ["sample-tdd" repository](https://github.com/css-software-engineering-studio/sample-tdd) on GitHub. This educational tool is designed to help beginners understand the fundamentals of Test-Driven Development (TDD). The repository contains a basic project structure for a variety of programming languages including C#, Java, C++, Python, Dart, and JavaScript. Each section is meticulously tailored to introduce you to the TDD frameworks and best practices specific to that language, providing a structured learning path.
